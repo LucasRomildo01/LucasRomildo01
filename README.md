@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá! eu sou o Lucas Romildo 🤚
 
-<!--
-**LucasRomildo01/LucasRomildo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-romildo-7b4629275?trk=people-guest_people_search-card)
+<a href = "mailto:LucasRomildo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5511949556863&text=Fala,%20Lucas!%20Vim%20do%20teu%20portifólio,%20quero%20trabalhar%20contigo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+ <a href="https://github.com/LucasRomildo01">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasRomildo01&show_icons=true&theme=merko&include_all_commits=true&count_private-true"/>
+  <img height="180cm" width="195cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRomildo01&layout=compact&langs_count=16&thrme=merko"/>
+                           
+                           
+  </div>
+
+
+
+### Tecnologias que eu uso no meu dia:
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+##
+
+Adoro aplicar os principios de design responsivo e assistir minhas paginas de web encolherem nas telas de dispositivos moveis e ainda parecerem incriveis.
