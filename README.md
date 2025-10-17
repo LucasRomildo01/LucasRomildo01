@@ -2,7 +2,7 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-romildo-7b4629275?trk=people-guest_people_search-card)
 <a href = "mailto:LucasRomildo01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://api.whatsapp.com/send?phone=5511949556863&text=Fala,%20Lucas!%20Vim%20do%20teu%20portifólio,%20quero%20trabalhar%20contigo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5511966641028&text=Fala,%20Lucas!%20Vim%20do%20teu%20portifólio,%20quero%20trabalhar%20contigo!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 <a href = "https://lucasromildo01.github.io/Portifolio/index.html"><img height="55cm" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 
